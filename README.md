@@ -1,2 +1,2 @@
 # ourlang
-computer language created using ANTLR 4
+computer language created using ANTLR4
