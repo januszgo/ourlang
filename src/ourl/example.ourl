@@ -26,3 +26,9 @@ if str[0]=="s"
 {
     print("strings work correctly");
 }
+y=2;
+for z=0:3
+{
+    y=y+z;
+}
+print(y);
